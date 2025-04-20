@@ -24,5 +24,8 @@ export default defineConfig({
         drop_debugger: true,
       },
     },
+    rollupOptions: {
+      external: [], // <- força a empacotar tudo
+    },
   },
 })
