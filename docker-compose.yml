@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  claudeflow:
+    image: node:18-alpine
+    container_name: claudeflow
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    command: >
+      sh -c "npm ci &&
+             npm run build &&
+             npm run preview"
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    labels:
+      coolify.enable: "true"
+      coolify.version: "1.0.0"
+      coolify.name: "ClaudeFlow Landing Page"
+      coolify.description: "Landing page para o ClaudeFlow - Prompts para n8n"
+      coolify.force.https: "true"
+      coolify.cors.enabled: "true"
+
+  # Adicionando serviço para geração de certificados SSL automática via Traefik
+  # (opcional, se o Coolify já gerencia isso para você)
+  traefik:
+    image: traefik:v2.9
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./traefik/acme.json:/acme.json
+      - ./traefik/traefik.yml:/traefik.yml
+    depends_on:
+      - claudeflow
+    labels:
+      coolify.enable: "true"
+      coolify.name: "Traefik Proxy"
+      coolify.description: "Proxy reverso e gerenciador de certificados SSL"
+
+volumes:
+  traefik-certificates:
+    external: false

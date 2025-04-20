@@ -1,0 +1,32 @@
+api:
+  dashboard: true
+  insecure: false # Definir como true apenas em ambiente de desenvolvimento
+
+entryPoints:
+  web:
+    address: ":80"
+    http:
+      redirections:
+        entryPoint:
+          to: websecure
+          scheme: https
+  websecure:
+    address: ":443"
+    http:
+      tls:
+        certResolver: letsencrypt
+
+providers:
+  docker:
+    endpoint: "unix:///var/run/docker.sock"
+    exposedByDefault: false
+  file:
+    directory: "/etc/traefik/dynamic"
+    watch: true
+
+certificatesResolvers:
+  letsencrypt:
+    acme:
+      email: seu-email@exemplo.com # Altere para seu email real para receber notificações sobre os certificados
+      storage: acme.json
+      tlsChallenge: {}

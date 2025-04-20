@@ -1,0 +1,39 @@
+{
+  "name": "claudeflow",
+  "type": "application",
+  "buildPack": "nodejs",
+  "nodeVersion": "18",
+  "websitePort": 3000,
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm run preview",
+  "environmentVariables": [
+    {
+      "key": "NODE_ENV",
+      "value": "production"
+    }
+  ],
+  "autoDeploy": true,
+  "domains": [
+    {
+      "domain": "claudeflow.seu-dominio.com",
+      "isProduction": true
+    }
+  ],
+  "forceHttps": true,
+  "resources": {
+    "cpu": 1,
+    "memory": 1024
+  },
+  "healthCheckPath": "/",
+  "features": {
+    "cors": {
+      "enabled": true,
+      "options": {
+        "origin": "*",
+        "methods": ["GET", "POST", "OPTIONS"],
+        "allowedHeaders": ["Content-Type", "Authorization"],
+        "credentials": true
+      }
+    }
+  }
+}
