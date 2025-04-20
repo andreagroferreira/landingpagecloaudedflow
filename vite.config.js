@@ -10,22 +10,12 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
-  server: {
-    port: 3000,
-    open: true,
-  },
   build: {
+    target: 'es2015',
     outDir: 'dist',
-    assetsDir: 'assets',
     minify: 'terser',
-    terserOptions: {
-      compress: {
-        drop_console: true,
-        drop_debugger: true,
-      },
-    },
     rollupOptions: {
-      external: [], // <- força a empacotar tudo
+      external: [], // importante!
     },
   },
 })
