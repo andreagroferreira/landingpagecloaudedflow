@@ -13,7 +13,7 @@
       <div class="container relative z-10">
         <div class="max-w-4xl mx-auto text-center">
           <h1 class="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-6 leading-tight">
-            ❌ Já copiaste fluxos do YouTube, Reddit ou ChatGPT... e <span class="text-destructive">NADA funcionou?</span>
+            ❌ Já copiaste fluxos N8N do YouTube, Reddit ou ChatGPT... e <span class="text-destructive">NADA funcionou?</span>
           </h1>
 
           <p class="text-xl md:text-2xl mb-10 text-card-foreground">
