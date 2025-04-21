@@ -13,21 +13,21 @@
       <div class="container relative z-10">
         <div class="max-w-4xl mx-auto text-center">
           <h1 class="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-6 leading-tight">
-            ❌ Já copiaste fluxos N8N do YouTube, Reddit ou ChatGPT... e <span class="text-destructive">NADA funcionou?</span>
+            ❌ Tried building flows from YouTube, Reddit or ChatGPT... and <span class="text-destructive">nothing worked?</span>
           </h1>
 
           <p class="text-xl md:text-2xl mb-10 text-card-foreground">
-            Este prompt transforma o Claude num engenheiro de automações que gera fluxos prontos no n8n –
-            <span class="font-bold highlight-text">mesmo que nunca tenhas escrito uma linha de código na vida.</span>
+            <span class="font-bold highlight-text">This prompt turns Claude into your personal automation engineer —
+            even if you've never written a single line of code in your life.</span>
           </p>
 
           <div class="flex justify-center mb-4">
-            <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
-              🔓 Quero Automatizar Já – <span class="font-bold">17€</span>
+            <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+              🔓 Get Instant Access – <span class="font-bold">$27</span>
             </a>
           </div>
           <p class="text-sm text-muted-foreground">
-            ✓ Acesso Imediato • ✓ Pagamento Único • ✓ 7 Dias de Garantia
+            ✓ Instant Delivery • ✓ One-time Payment • ✓ 7-Day Money-back Guarantee
           </p>
         </div>
       </div>
@@ -44,34 +44,35 @@
         <div class="max-w-4xl mx-auto mb-12">
           <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-              A verdade que ninguém te diz sobre automações com IA...
+              The truth about AI automations no one talks about...
             </span>
           </h2>
 
           <div class="bg-card/40 backdrop-blur-sm rounded-xl p-8 border border-border shadow-lg">
             <p class="text-lg mb-6">
-              Eu passei <span class="font-bold text-destructive">MESES</span> a tentar fazer o que todos aqueles vídeos no YouTube prometiam:
-              "Automatiza com Claude", "Cria bots com n8n", "Faz um CRM com IA"...
+              I spent <span class="font-bold text-destructive">MONTHS</span> trying to follow every YouTube tutorial that promised:
+              "Automate with Claude", "Build bots with n8n", "AI-powered CRM in 10 minutes"...
             </p>
 
             <p class="text-lg mb-6">
-              Mas quando chegava à parte de colar o JSON no n8n?
-              <span class="font-bold text-destructive bg-destructive/10 px-2 py-1 rounded">💥 BUM! Erro. Bug. Campo inválido. Nada funcionava.</span>
+              But when I pasted the JSON into n8n?
+              <span class="font-bold text-destructive bg-destructive/10 px-2 py-1 rounded">💥 BOOM. Error. Bugs. Invalid field. Nothing worked.</span>
             </p>
 
             <p class="text-lg mb-6">
-              Gastei <span class="font-bold text-destructive">HORAS</span> a tentar descobrir onde estava o erro.
-              Testei prompts no ChatGPT, Claude, Gemini...
-              Nada gerava fluxos 100% prontos.
+              I wasted <span class="font-bold text-destructive">HOURS</span> trying to debug.
+              Tried ChatGPT. Claude. Gemini.
+              None of them gave me a clean, working flow.
             </p>
 
             <p class="text-lg mb-6">
-              Até que, depois de dezenas de tentativas, criei <span class="font-bold text-primary">O Prompt Perfeito</span>.
-              Um que finalmente gera um JSON limpo, funcional e colável no n8n.
+              Until one day, after dozens of failed attempts, I cracked the code:
+              <span class="font-bold text-primary">The Perfect Prompt.</span>
             </p>
 
             <p class="text-lg">
-              E agora, qualquer pessoa — mesmo sem experiência — pode criar fluxos completos em segundos.
+              It finally generated clean JSON — copy → paste → done.
+              Now anyone, even with zero experience, can build full automations in seconds.
             </p>
           </div>
         </div>
@@ -84,9 +85,9 @@
         <div class="max-w-3xl mx-auto">
           <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-              Um prompt que faz o Claude trabalhar para ti.
+              A prompt that makes Claude do the hard work for you.
             </span><br>
-            <span class="text-primary font-bold">+100 automações reais. <span class="bg-primary/10 px-2 py-1 rounded">Zero código. Zero dor de cabeça.</span></span>
+            <span class="text-primary font-bold">100+ real-world automations. <span class="bg-primary/10 px-2 py-1 rounded">No code. No stress.</span></span>
           </h2>
 
           <div class="bg-card/40 backdrop-blur-sm rounded-xl p-8 border border-border shadow-lg highlight-border">
@@ -95,31 +96,31 @@
                 <svg class="w-6 h-6 text-primary mr-3 flex-shrink-0 mt-0.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
-                <span class="text-lg">Cola o prompt → descreve o que queres → <span class="font-bold highlight-text">recebes JSON funcional</span></span>
+                <span class="text-lg">Paste the prompt → describe your automation → <span class="font-bold highlight-text">get working JSON</span></span>
               </li>
               <li class="flex items-start">
                 <svg class="w-6 h-6 text-primary mr-3 flex-shrink-0 mt-0.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
-                <span class="text-lg">Copia e cola no n8n → fluxo pronto a correr</span>
+                <span class="text-lg">Paste it into n8n → and it just runs</span>
               </li>
               <li class="flex items-start">
                 <svg class="w-6 h-6 text-primary mr-3 flex-shrink-0 mt-0.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
-                <span class="text-lg">Inclui mais de 100 automações testadas, usadas por devs e agências reais</span>
+                <span class="text-lg">Includes 100+ tested flows used by devs and real agencies</span>
               </li>
               <li class="flex items-start">
                 <svg class="w-6 h-6 text-primary mr-3 flex-shrink-0 mt-0.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
-                <span class="text-lg">Categorias: Telegram + GPT, Webhooks, APIs, Email, IA, Bases de dados</span>
+                <span class="text-lg">Categories: Telegram + GPT, Webhooks, APIs, Email, AI, Databases</span>
               </li>
               <li class="flex items-start">
                 <svg class="w-6 h-6 text-primary mr-3 flex-shrink-0 mt-0.5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
-                <span class="text-lg">Entrega automática por e-mail em 1 minuto</span>
+                <span class="text-lg">Instant delivery to your inbox (within 1 minute)</span>
               </li>
             </ul>
           </div>
@@ -141,34 +142,34 @@
         <div class="max-w-3xl mx-auto">
           <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-              O que tu vais receber hoje tem um valor real de mais de 500€
+              This bundle is worth more than $3,000
             </span>
           </h2>
 
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
             <div class="bg-card/40 backdrop-blur-sm border border-border rounded-xl p-6 shadow-lg hover:-translate-y-1 transition-transform duration-300">
               <div class="text-4xl text-primary mb-4 floating">🧠</div>
-              <p>Este prompt foi refinado com base em <span class="font-bold text-primary">+30 tentativas</span> e testes reais com Claude</p>
+              <p>This prompt was refined through <span class="font-bold text-primary">30+ tests</span> and real use cases with Claude</p>
             </div>
 
             <div class="bg-card/40 backdrop-blur-sm border border-border rounded-xl p-6 shadow-lg hover:-translate-y-1 transition-transform duration-300 value-tag">
               <div class="text-4xl text-primary mb-4 floating">📁</div>
-              <p>A pasta de templates inclui fluxos usados por agências, com valor de mercado de <span class="font-bold text-primary">200€–500€ cada</span></p>
+              <p>The templates are based on flows used by real agencies (sold for <span class="font-bold text-primary">$200–$500+ each</span>)</p>
             </div>
 
             <div class="bg-card/40 backdrop-blur-sm border border-border rounded-xl p-6 shadow-lg hover:-translate-y-1 transition-transform duration-300">
               <div class="text-4xl text-primary mb-4 floating">📝</div>
-              <p>O guia rápido mostra-te como gerar e validar tudo <span class="font-bold text-primary">em segundos</span></p>
+              <p>A step-by-step guide shows you how to generate and validate everything <span class="font-bold text-primary">in seconds</span></p>
             </div>
           </div>
 
           <div class="bg-card/40 backdrop-blur-sm rounded-xl p-8 border border-primary/30 shadow-lg text-center relative">
-            <div class="limited-badge">OFERTA LIMITADA</div>
-            <p class="text-xl mb-2">Valor real do pack: <span class="line-through">500€</span></p>
-            <p class="text-2xl font-bold mb-6">Hoje, tu levas tudo por: <span class="text-primary text-4xl">17€</span></p>
+            <div class="limited-badge">LIMITED OFFER</div>
+            <p class="text-xl mb-2">Total value: <span class="line-through">$3,000</span></p>
+            <p class="text-2xl font-bold mb-6">Today's price: <span class="text-primary text-4xl">$27</span></p>
 
-            <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg shine-effect">
-              💥 Sim, quero o pack por 17€
+            <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg shine-effect">
+              💥 Yes, I want this for $27
             </a>
           </div>
         </div>
@@ -181,24 +182,24 @@
         <div class="max-w-3xl mx-auto">
           <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-destructive via-destructive/80 to-destructive/60">
-              Isto NÃO vai ficar disponível por 17€ por muito tempo…
+              This offer won't last at $27 for long...
             </span>
           </h2>
 
           <div class="bg-card/40 backdrop-blur-sm rounded-xl p-8 border border-destructive/30 shadow-lg relative">
             <div class="absolute -right-3 -top-3 bg-destructive text-white px-3 py-1 rounded-md text-sm font-bold transform rotate-3 shadow-lg">
-              URGENTE
+              URGENT
             </div>
             <div class="prose prose-lg dark:prose-invert mx-auto">
-              <p><span class="font-bold text-destructive">Esta é uma oferta de lançamento.</span></p>
-              <p>Em breve, este material vai transformar-se num curso com acesso fechado a <span class="font-bold text-destructive">147€</span>.</p>
-              <p>Quando isso acontecer, o acesso vitalício a estes templates <span class="font-bold text-destructive">nunca mais será vendido a este preço</span>.</p>
-              <p>Não vais receber 1... nem 10...<br>
-              <span class="font-bold bg-primary/10 px-2 py-1 rounded">Vais receber +100 automações reais e funcionais, entregues hoje.</span></p>
+              <p><span class="font-bold text-destructive">This is a launch-only offer.</span></p>
+              <p>Soon, this bundle will become a full paid course priced at <span class="font-bold text-destructive">$147</span>.</p>
+              <p>When that happens, you <span class="font-bold text-destructive">won't be able to get lifetime access</span> to these templates ever again.</p>
+              <p>You're not getting 1... not 10...<br>
+              <span class="font-bold bg-primary/10 px-2 py-1 rounded">You're getting 100+ real, working automations, delivered today.</span></p>
 
               <div class="mt-8 flex justify-center">
-                <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
-                  Quero Garantir o Meu Acesso Agora
+                <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+                  Get Instant Access Now
                 </a>
               </div>
             </div>
@@ -218,7 +219,7 @@
         <div class="max-w-3xl mx-auto">
           <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-              E se não funcionar contigo?
+              What if it doesn't work for me?
             </span>
           </h2>
 
@@ -230,9 +231,9 @@
             </div>
 
             <div>
-              <p class="text-xl mb-4"><span class="font-bold text-primary">Tens 7 dias de garantia total.</span></p>
-              <p class="text-xl mb-4">Se não conseguires gerar pelo menos 1 fluxo funcional, <span class="highlight-text">reembolsamos 100% sem perguntas</span>.</p>
-              <p class="text-xl font-bold bg-primary/10 px-3 py-2 rounded-lg inline-block">O risco é TODO nosso.</p>
+              <p class="text-xl mb-4"><span class="font-bold text-primary">You have 7 full days to test everything.</span></p>
+              <p class="text-xl mb-4">If you can't get at least one working automation, <span class="highlight-text">we'll refund you — no questions asked.</span></p>
+              <p class="text-xl font-bold bg-primary/10 px-3 py-2 rounded-lg inline-block">100% risk on us.</p>
             </div>
           </div>
         </div>
@@ -244,27 +245,27 @@
       <div class="container relative z-10">
         <div class="max-w-3xl mx-auto text-center">
           <h2 class="text-2xl md:text-3xl font-bold mb-6">
-            <span class="bg-destructive/10 px-3 py-1 rounded-md">⚠️ Para os que querem parar de perder tempo e começar a automatizar de verdade...</span>
+            <span class="bg-destructive/10 px-3 py-1 rounded-md">⚠️ Tired of wasting time with broken flows and dead-end tutorials?</span>
           </h2>
 
-          <p class="text-xl mb-4"><span class="font-bold highlight-text">Este é o momento.</span></p>
-          <p class="text-xl mb-10">Um investimento de <span class="text-primary font-bold">17€</span> pode poupar-te <span class="font-bold">semanas de frustração</span>.</p>
+          <p class="text-xl mb-4"><span class="font-bold highlight-text">This is your moment.</span></p>
+          <p class="text-xl mb-10">A <span class="text-primary font-bold">$27</span> investment can save you <span class="font-bold">weeks of frustration</span>.</p>
 
           <div class="bg-card/40 backdrop-blur-sm rounded-xl p-8 border border-primary/30 shadow-lg max-w-xl mx-auto mb-8 highlight-border">
             <div class="flex flex-col md:flex-row justify-between items-center gap-4 border-t border-border pt-4 mt-4">
               <div class="text-left">
-                <p class="text-muted-foreground">Valor real:</p>
-                <p class="text-2xl line-through text-muted-foreground">500€</p>
+                <p class="text-muted-foreground">Total value:</p>
+                <p class="text-2xl line-through text-muted-foreground">$3,000</p>
               </div>
               <div class="text-right">
-                <p class="text-primary font-medium">Hoje apenas:</p>
-                <p class="text-3xl font-bold text-primary countdown-pulse">17€</p>
+                <p class="text-primary font-medium">Today's price:</p>
+                <p class="text-3xl font-bold text-primary countdown-pulse">$27</p>
               </div>
             </div>
           </div>
 
-          <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
-            🔓 Quero Automatizar Agora – 17€
+          <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+            🔓 I Want to Automate Now – $27
           </a>
         </div>
       </div>
@@ -281,29 +282,29 @@
         <div class="max-w-3xl mx-auto">
           <h2 class="text-2xl md:text-3xl font-bold mb-12 text-center">
             <span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-              Perguntas Frequentes
+              Frequently Asked Questions
             </span>
           </h2>
 
           <div class="space-y-6">
             <div class="bg-card/40 backdrop-blur-sm rounded-xl p-6 border border-border shadow-lg">
-              <h3 class="text-xl font-semibold mb-3">Funciona com ChatGPT?</h3>
-              <p>Não. Este prompt foi desenhado para Claude (Anthropic), que é superior para geração de JSON funcional.</p>
+              <h3 class="text-xl font-semibold mb-3">Does this work with ChatGPT?</h3>
+              <p>No. This prompt was built specifically for Claude (Anthropic), which is much better for generating valid JSON.</p>
             </div>
 
             <div class="bg-card/40 backdrop-blur-sm rounded-xl p-6 border border-border shadow-lg">
-              <h3 class="text-xl font-semibold mb-3">Preciso de saber programar?</h3>
-              <p>Não. Copias o prompt, colas no Claude, pedes o que queres... ele gera tudo.</p>
+              <h3 class="text-xl font-semibold mb-3">Do I need coding skills?</h3>
+              <p>Nope. Just paste the prompt, ask what you want, and Claude builds the flow for you.</p>
             </div>
 
             <div class="bg-card/40 backdrop-blur-sm rounded-xl p-6 border border-border shadow-lg">
-              <h3 class="text-xl font-semibold mb-3">Posso usar os templates com clientes?</h3>
-              <p>Sim. São teus. Podes usar livremente, em projetos próprios ou comerciais.</p>
+              <h3 class="text-xl font-semibold mb-3">Can I use the templates commercially?</h3>
+              <p>Yes! You can use them for client work, SaaS, internal tools — it's yours.</p>
             </div>
 
             <div class="bg-card/40 backdrop-blur-sm rounded-xl p-6 border border-border shadow-lg">
-              <h3 class="text-xl font-semibold mb-3">E se não funcionar comigo?</h3>
-              <p>Reembolsamos. 7 dias, sem stress.</p>
+              <h3 class="text-xl font-semibold mb-3">What if it doesn't work?</h3>
+              <p>You've got 7 days. If it doesn't work, we'll refund you. No hassle.</p>
             </div>
           </div>
         </div>
@@ -315,14 +316,14 @@
       <div class="container relative z-10">
         <div class="max-w-3xl mx-auto text-center">
           <h2 class="text-2xl font-bold mb-6">
-            🤖 Automatizar o teu negócio nunca foi tão fácil.
+            🤖 Automating your business has never been this easy.
           </h2>
 
-          <p class="text-xl mb-4">Gasta menos tempo a tentar entender o erro do n8n.</p>
-          <p class="text-xl mb-10">E mais tempo a lançar projetos reais com IA.</p>
+          <p class="text-xl mb-4">Spend less time fixing errors in n8n.</p>
+          <p class="text-xl mb-10">Spend more time launching real, working AI flows.</p>
 
-          <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" id="checkout" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
-            🔥 Quero Automatizar Agora – 17€
+          <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" id="checkout" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+            🔥 Let's Automate – $27
           </a>
         </div>
       </div>
@@ -342,7 +343,7 @@ const router = useRouter();
 
 // Esta função não é mais necessária, mas mantemos para evitar erros no código existente
 const simulateCheckout = () => {
-  window.open('https://buy.stripe.com/aEU7t6cLz0knbM4cMS', '_blank');
+  window.open('https://buy.stripe.com/14kfZCbHv7MPeYgdQX', '_blank');
 };
 </script>
 
@@ -405,7 +406,7 @@ const simulateCheckout = () => {
 }
 
 .value-tag::after {
-  content: "VALOR";
+  content: "VALUE";
   position: absolute;
   top: -15px;
   right: -15px;
