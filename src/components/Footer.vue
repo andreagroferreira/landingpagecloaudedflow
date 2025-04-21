@@ -14,7 +14,7 @@
             Quanto custa a sua frustração com automações que falham?
           </p>
           <p class="text-muted-foreground">
-            <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="text-primary hover:text-primary/80 underline transition-colors">Resolva hoje por apenas R$97</a>
+            <a href="https://buy.stripe.com/00gaFibHv6IL03mdQY" target="_blank" class="text-primary hover:text-primary/80 underline transition-colors">Resolva hoje por apenas R$97</a>
           </p>
         </div>
       </div>
