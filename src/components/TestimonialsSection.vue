@@ -1,31 +1,31 @@
 <template>
-  <section id="testimonials" class="py-16 md:py-24 relative overflow-hidden">
+  <section id="testemunhos" class="py-16 md:py-24 relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-t from-background/80 to-background/90 z-0"></div>
     <div class="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-primary/20 to-transparent"></div>
     <div class="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-primary/20 to-transparent"></div>
 
     <div class="container mx-auto px-4 relative z-10">
-      <!-- Section header -->
+      <!-- Cabeçalho da seção -->
       <div class="max-w-3xl mx-auto text-center mb-12">
         <h2 class="text-2xl md:text-3xl font-bold mb-4">
           <span class="bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-            What Our Customers Achieved
+            O Que Nossos Clientes Conseguiram
           </span>
         </h2>
         <p class="text-gray-300 text-lg">
-          These people were frustrated with automations, just like you:
+          Essas pessoas estavam frustradas com automações, exatamente como você:
         </p>
       </div>
 
-      <!-- Testimonials grid -->
+      <!-- Grid de testemunhos -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
-        <!-- Testimonial 1 -->
+        <!-- Testemunho 1 -->
         <div class="bg-card/40 backdrop-blur-sm border border-border rounded-lg p-6 shadow-lg">
           <div class="flex items-center mb-4">
-            <img src="https://randomuser.me/api/portraits/men/42.jpg" alt="Mike Johnson" class="w-14 h-14 rounded-full border-2 border-primary mr-3" />
+            <img src="https://randomuser.me/api/portraits/men/42.jpg" alt="Roberto Silva" class="w-14 h-14 rounded-full border-2 border-primary mr-3" />
             <div>
-              <p class="font-bold text-foreground">Mike Johnson</p>
-              <p class="text-sm text-muted-foreground">Freelancer, Austin</p>
+              <p class="font-bold text-foreground">Roberto Silva</p>
+              <p class="text-sm text-muted-foreground">Freelancer, São Paulo</p>
             </div>
           </div>
           <div class="mb-4">
@@ -38,21 +38,21 @@
             </div>
           </div>
           <p class="text-sm text-foreground mb-4">
-            "I was spending <span class="font-bold text-primary">4 hours a day</span> trying to generate JSON for n8n with ChatGPT. After using the ClaudeFlow prompt, I created <span class="font-bold text-primary">5 complete flows</span> in less than one hour!"
+            "Gastava <span class="font-bold text-primary">4 horas por dia</span> tentando gerar JSON para o n8n com o ChatGPT. Depois de usar o prompt do ClaudeFlow, consegui criar <span class="font-bold text-primary">5 fluxos completos</span> em menos de uma hora!"
           </p>
           <div class="flex items-center justify-between bg-card/70 p-3 rounded-md border border-border">
-            <span class="text-sm font-semibold">Time saved:</span>
+            <span class="text-sm font-semibold">Economia de tempo:</span>
             <span class="text-primary font-bold">93%</span>
           </div>
         </div>
 
-        <!-- Testimonial 2 -->
+        <!-- Testemunho 2 -->
         <div class="bg-card/40 backdrop-blur-sm border border-border rounded-lg p-6 shadow-lg">
           <div class="flex items-center mb-4">
-            <img src="https://randomuser.me/api/portraits/women/42.jpg" alt="Sarah Miller" class="w-14 h-14 rounded-full border-2 border-primary mr-3" />
+            <img src="https://randomuser.me/api/portraits/women/42.jpg" alt="Camila Oliveira" class="w-14 h-14 rounded-full border-2 border-primary mr-3" />
             <div>
-              <p class="font-bold text-foreground">Sarah Miller</p>
-              <p class="text-sm text-muted-foreground">Digital Marketer, Chicago</p>
+              <p class="font-bold text-foreground">Camila Oliveira</p>
+              <p class="text-sm text-muted-foreground">Especialista em Marketing, Rio de Janeiro</p>
             </div>
           </div>
           <div class="mb-4">
@@ -65,21 +65,21 @@
             </div>
           </div>
           <p class="text-sm text-foreground mb-4">
-            "As a marketer with zero coding skills, I thought creating n8n flows would be impossible. ClaudeFlow's <span class="font-bold text-primary">ready-to-use templates</span> and prompt allowed me to create <span class="font-bold text-primary">10 email marketing automations</span> in just 2 days!"
+            "Como profissional de marketing sem nenhum conhecimento de código, achava impossível criar fluxos no n8n. Os <span class="font-bold text-primary">templates prontos</span> do ClaudeFlow e o prompt me permitiram criar <span class="font-bold text-primary">10 automações</span> de email marketing em apenas 2 dias!"
           </p>
           <div class="flex items-center justify-between bg-card/70 p-3 rounded-md border border-border">
-            <span class="text-sm font-semibold">No technical knowledge:</span>
-            <span class="text-primary font-bold">100% working</span>
+            <span class="text-sm font-semibold">Sem conhecimento técnico:</span>
+            <span class="text-primary font-bold">100% funcional</span>
           </div>
         </div>
 
-        <!-- Testimonial 3 -->
+        <!-- Testemunho 3 -->
         <div class="bg-card/40 backdrop-blur-sm border border-border rounded-lg p-6 shadow-lg">
           <div class="flex items-center mb-4">
-            <img src="https://randomuser.me/api/portraits/men/62.jpg" alt="David Thompson" class="w-14 h-14 rounded-full border-2 border-primary mr-3" />
+            <img src="https://randomuser.me/api/portraits/men/62.jpg" alt="Marcelo Santos" class="w-14 h-14 rounded-full border-2 border-primary mr-3" />
             <div>
-              <p class="font-bold text-foreground">David Thompson</p>
-              <p class="text-sm text-muted-foreground">Agency Owner, New York</p>
+              <p class="font-bold text-foreground">Marcelo Santos</p>
+              <p class="text-sm text-muted-foreground">Dono de Agência, Belo Horizonte</p>
             </div>
           </div>
           <div class="mb-4">
@@ -92,32 +92,32 @@
             </div>
           </div>
           <p class="text-sm text-foreground mb-4">
-            "I was spending <span class="font-bold text-primary">$800/month</span> on a developer to build n8n automations for my clients. With ClaudeFlow, for just <span class="font-bold text-primary">$27 one-time</span>, I can create flows myself. I recouped the investment on the first day!"
+            "Estava gastando <span class="font-bold text-primary">R$4.000/mês</span> com um desenvolvedor para fazer automações n8n para meus clientes. Com o ClaudeFlow, por apenas <span class="font-bold text-primary">R$97 uma única vez</span>, consigo criar os fluxos eu mesmo. Recuperei o investimento no primeiro dia!"
           </p>
           <div class="flex items-center justify-between bg-card/70 p-3 rounded-md border border-border">
             <span class="text-sm font-semibold">ROI:</span>
-            <span class="text-primary font-bold">2,900%</span>
+            <span class="text-primary font-bold">4.000%</span>
           </div>
         </div>
       </div>
 
-      <!-- Metrics and social proof -->
+      <!-- Contadores e prova social -->
       <div class="mt-12 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
         <div class="bg-card/30 backdrop-blur-sm border border-border rounded-lg p-4 text-center">
           <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">280+</div>
-          <div class="text-sm text-muted-foreground">Satisfied Customers</div>
+          <div class="text-sm text-muted-foreground">Clientes Satisfeitos</div>
         </div>
         <div class="bg-card/30 backdrop-blur-sm border border-border rounded-lg p-4 text-center">
-          <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">4,250+</div>
-          <div class="text-sm text-muted-foreground">Flows Generated</div>
+          <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">4.250+</div>
+          <div class="text-sm text-muted-foreground">Fluxos Gerados</div>
         </div>
         <div class="bg-card/30 backdrop-blur-sm border border-border rounded-lg p-4 text-center">
-          <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">97.5%</div>
-          <div class="text-sm text-muted-foreground">Success Rate</div>
+          <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">97,5%</div>
+          <div class="text-sm text-muted-foreground">Taxa de Sucesso</div>
         </div>
         <div class="bg-card/30 backdrop-blur-sm border border-border rounded-lg p-4 text-center">
-          <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">4.9/5</div>
-          <div class="text-sm text-muted-foreground">Average Rating</div>
+          <div class="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">4,9/5</div>
+          <div class="text-sm text-muted-foreground">Avaliação Média</div>
         </div>
       </div>
     </div>
@@ -125,5 +125,5 @@
 </template>
 
 <script setup>
-// No translations used, all hardcoded
+// Sem usar traduções, tudo hardcoded
 </script>

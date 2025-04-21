@@ -5,16 +5,16 @@
         <!-- Logo/Brand -->
         <div class="mb-6 md:mb-0">
           <h2 class="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">ClaudeFlow</h2>
-          <p class="text-muted-foreground mt-1">© 2024 All rights reserved</p>
+          <p class="text-muted-foreground mt-1">© 2024 Todos os direitos reservados</p>
         </div>
 
         <!-- Mental trigger -->
         <div class="text-center md:text-right">
           <p class="text-card-foreground mb-2 text-lg font-medium">
-            How much is your frustration with failed automations costing you?
+            Quanto custa a sua frustração com automações que falham?
           </p>
           <p class="text-muted-foreground">
-            <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="text-primary hover:text-primary/80 underline transition-colors">Solve it today for just $27</a>
+            <a href="https://buy.stripe.com/14kfZCbHv7MPeYgdQX" target="_blank" class="text-primary hover:text-primary/80 underline transition-colors">Resolva hoje por apenas R$97</a>
           </p>
         </div>
       </div>
