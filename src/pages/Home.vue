@@ -22,7 +22,7 @@
           </p>
 
           <div class="flex justify-center mb-4">
-            <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+            <a href="https://pay.hotmart.com/O99579718G?checkoutMode=10&bid=1746468046351" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
               🔓 Quero Automatizar Já – <span class="font-bold">17€</span>
             </a>
           </div>
@@ -167,7 +167,7 @@
             <p class="text-xl mb-2">Valor real do pack: <span class="line-through">500€</span></p>
             <p class="text-2xl font-bold mb-6">Hoje, tu levas tudo por: <span class="text-primary text-4xl">17€</span></p>
 
-            <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg shine-effect">
+            <a href="https://pay.hotmart.com/O99579718G?checkoutMode=10&bid=1746468046351" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg shine-effect">
               💥 Sim, quero o pack por 17€
             </a>
           </div>
@@ -197,7 +197,7 @@
               <span class="font-bold bg-primary/10 px-2 py-1 rounded">Vais receber +100 automações reais e funcionais, entregues hoje.</span></p>
 
               <div class="mt-8 flex justify-center">
-                <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+                <a href="https://pay.hotmart.com/O99579718G?checkoutMode=10&bid=1746468046351" target="_blank" class="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-medium shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
                   Quero Garantir o Meu Acesso Agora
                 </a>
               </div>
@@ -263,7 +263,7 @@
             </div>
           </div>
 
-          <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+          <a href="https://pay.hotmart.com/O99579718G?checkoutMode=10&bid=1746468046351" target="_blank" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
             🔓 Quero Automatizar Agora – 17€
           </a>
         </div>
@@ -321,7 +321,7 @@
           <p class="text-xl mb-4">Gasta menos tempo a tentar entender o erro do n8n.</p>
           <p class="text-xl mb-10">E mais tempo a lançar projetos reais com IA.</p>
 
-          <a href="https://buy.stripe.com/aEU7t6cLz0knbM4cMS" target="_blank" id="checkout" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
+          <a href="https://pay.hotmart.com/O99579718G?checkoutMode=10&bid=1746468046351" target="_blank" id="checkout" class="inline-block bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all duration-500 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-1 text-lg subtle-pulse shine-effect">
             🔥 Quero Automatizar Agora – 17€
           </a>
         </div>
@@ -342,7 +342,7 @@ const router = useRouter();
 
 // Esta função não é mais necessária, mas mantemos para evitar erros no código existente
 const simulateCheckout = () => {
-  window.open('https://buy.stripe.com/aEU7t6cLz0knbM4cMS', '_blank');
+  window.open('https://pay.hotmart.com/O99579718G?checkoutMode=10&bid=1746468046351', '_blank');
 };
 </script>
 
